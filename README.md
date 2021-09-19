@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi I'm VISHWKANT! 👋
+Mechatronics Student, DSEU OKHLA - II
 
-<!--
-**vishwkant0693/vishwkant0693** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on e-commerce web app.
+- 🌱 I’m currently learning web development.
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with python programming.
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: Instagram = @vishwkant0693, Twitter = @vishwkant0693.
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I am a Gamer.
+
+<img src="https://github-readme-stats.vercel.app/api?username=vishwkant0693&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
