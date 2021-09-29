@@ -1,7 +1,7 @@
 # Hi I'm Vishwkant! 👋
 Mechatronics Student, DSEU OKHLA - II
 
-- 🔭 I’m currently working on e-commerce web app.
+- 🔭 I’m currently working on Solar Tracker.
 - 🌱 I’m currently learning web development.
 - 🤔 I’m looking for help with python programming.
 - 📫 How to reach me: Instagram = @vishwkant0693, Twitter = @vishwkant0693.
