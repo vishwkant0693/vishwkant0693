@@ -1,5 +1,6 @@
 # Hi I'm Vishwkant! 👋
 Mechatronics Student, DSEU OKHLA - II
+<hr>
 
 - 🔭 I’m currently working on Solar Tracker.
 - 🌱 I’m currently learning web development.
@@ -7,6 +8,13 @@ Mechatronics Student, DSEU OKHLA - II
 - 📫 How to reach me: Instagram = @vishwkant0693, Twitter = @vishwkant0693.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a Gamer.
+<hr>
+
+PROJECTS :
+1. JavaScript Based Calculator
+2. Personal Portfolio/ CV
+3. Arduino Based UltraSonic Radar
+4. Arduino Based Dual Axis Sun Tracking Panel
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vishwkant0693&show_icons=true&theme=radical" />
 
@@ -16,8 +24,3 @@ Mechatronics Student, DSEU OKHLA - II
 
 <img align="left" alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
-Projects:
-1. JavaScript Based Calculator
-2. Personal Portfolio/ CV
-3. Arduino Based UltraSonic Radar
-4. Arduino Based Dual Axis Sun Tracking Panel
