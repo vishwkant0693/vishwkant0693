@@ -17,7 +17,7 @@ PROJECTS :
 1. JavaScript Based Calculator
 2. Personal Portfolio/ CV
 3. Arduino Based UltraSonic Radar
-4. Arduino Based Dual Axis Sun Tracking Panel
+4. Arduino Based Dual Axis SunFlower Panel
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vishwkant0693&show_icons=true&theme=radical" />
 
