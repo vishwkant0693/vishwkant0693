@@ -5,7 +5,7 @@ Mechatronics Student, DSEU OKHLA - II
 
 <hr>
 
-- 🔭 I’m currently working on Solar Tracker.
+- 🔭 I’m currently working on SunFlower Panel.
 - 🌱 I’m currently learning web development.
 - 🤔 I’m looking for help with python programming.
 - 📫 How to reach me: Instagram = @vishwkant0693, Twitter = @vishwkant0693.
