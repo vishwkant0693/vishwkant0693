@@ -10,7 +10,7 @@ Mechatronics Student, DITE OKHLA - II
 - 🤔 I’m looking for help with python programming.
 - 📫 How to reach me: Instagram = @vishwkant0693, Twitter = @vishwkant0693.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am a Gamer.
+- ⚡ Hobbies: Playing Cricket, Video Games.
 <hr>
 
 PROJECTS :
