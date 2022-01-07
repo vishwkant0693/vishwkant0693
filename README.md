@@ -1,7 +1,7 @@
 # Hi I'm Vishwkant! 👋
 ![name 1](https://user-images.githubusercontent.com/62985421/135860472-4b1af67b-086d-46dc-90b2-6e0a579af1b2.jpg)
 
-Mechatronics Student, DSEU OKHLA - II
+Mechatronics Student, DITE OKHLA - II
 
 <hr>
 
