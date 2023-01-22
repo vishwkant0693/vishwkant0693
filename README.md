@@ -6,8 +6,7 @@ Mechatronics Student, DITE OKHLA - II
 <hr>
 
 - 🔭 I’m currently working on Agriculture monitering system.
-- 🌱 I’m currently learning web development.
-- 🤔 I’m looking for help with python programming.
+- 🌱 I’m currently learning python programming.
 - 📫 How to reach me: Instagram = @vishwkant0693, Twitter = @vishwkant0693.
 - 😄 Pronouns: He/His
 - ⚡ Hobbies: Playing Cricket, Video Games.
