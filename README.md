@@ -8,8 +8,8 @@ Mechatronics Student, DITE OKHLA - II
 
 <hr>
 
-- 🔭 I’m currently working on basic python programming projects.
-- 🌱 I’m currently learning python programming.
+- 🔭 I’m currently working on Full Stack Projects.
+- 🌱 I’m currently learning python full stack.
 - 📫 How to reach me: Instagram = @vishwkant0693, Twitter = @vishwkant0693.
 - 😄 Pronouns: He/His
 - ⚡ Hobbies: Playing Cricket, Video Games.
