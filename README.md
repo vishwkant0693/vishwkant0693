@@ -20,7 +20,7 @@ PROJECTS :
 1. Personal Portfolio using ReactJS
 2. React CRUD Operations
 3. Arduino Based UltraSonic Radar
-4. 4. JavaScript Based Calculator
+4. JavaScript Based Calculator
 5. Arduino Based SunFlower Panel
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vishwkant0693&show_icons=true&theme=radical" />
