@@ -10,18 +10,23 @@ Mechatronics Student, DITE OKHLA - II
 
 - 🔭 I’m currently working on Full Stack Projects.
 - 🌱 I’m currently learning python full stack.
-- 🌱 Technologies: Python, HTML, CSS, JavaScript, Bootstrap, ReactJS, Django, MySQL, Git & GitHub. 
+- 🌱 Technologies: Python, HTML, CSS, JavaScript, Bootstrap, TailwindCSS, ReactJS, NodeJS, ExpressJS, Django, MySQL, MongoDB, JSON Server, Git & GitHub, Canva. 
 - 📫 How to reach me: Instagram = @vishwkant0693, Twitter = @vishwkant0693.
 - 😄 Pronouns: He/His
 - ⚡ Hobbies: Playing Cricket, Video Games.
 <hr>
 
 PROJECTS :
-1. Personal Portfolio using ReactJS
-2. React CRUD Operations
-3. Arduino Based UltraSonic Radar
-4. JavaScript Based Calculator
-5. Arduino Based SunFlower Panel
+1. Knight NotesApp - React, NodeJS
+2. Admin Panel - React, ChartJS
+3. ChatApp - Vite-React, NodeJS
+4. Personal Portfolio - ReactJS
+5. NetFlix Clone WebPage - HTML, CSS
+6. JavaScript Based Calculator
+7. JavaScript Based QuizApp
+8. JavaScript Based WeatherApp
+9. CRUD Operations - React, Django
+10. Arduino Based UltraSonic Radar
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vishwkant0693&show_icons=true&theme=radical" />
 
