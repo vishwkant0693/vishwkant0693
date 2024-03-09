@@ -17,16 +17,17 @@ Mechatronics Student, DITE OKHLA - II
 <hr>
 
 PROJECTS :
-1. Knight NotesApp - React, NodeJS
-2. Admin Panel - React, ChartJS
-3. ChatApp - Vite-React, NodeJS
-4. Personal Portfolio - ReactJS
-5. NetFlix Clone WebPage - HTML, CSS
-6. JavaScript Based Calculator
-7. JavaScript Based QuizApp
-8. JavaScript Based WeatherApp
-9. CRUD Operations - React, Django
-10. Arduino Based UltraSonic Radar
+1. Marty's Clinic - React, TailwindCSS, MongoDB, NodeJS
+2. Knight NotesApp - React, MongoDB, NodeJS
+3. Admin Panel - React, ChartJS
+4. ChatApp - Vite-React, NodeJS
+5. Personal Portfolio - ReactJS
+6. NetFlix Clone WebPage - HTML, CSS
+7. JavaScript Based Calculator
+8. JavaScript Based QuizApp
+9. JavaScript Based WeatherApp
+10. CRUD Operations - React, Django
+11. Arduino Based UltraSonic Radar
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vishwkant0693&show_icons=true&theme=radical" />
 
