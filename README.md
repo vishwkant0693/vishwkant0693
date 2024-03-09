@@ -9,7 +9,7 @@ Mechatronics Student, DITE OKHLA - II
 <hr>
 
 - 🔭 I’m currently working on Full Stack Projects.
-- 🌱 I’m currently learning python full stack.
+- 🌱 I’m currently learning NextJS.
 - 🌱 Technologies: Python, HTML, CSS, JavaScript, Bootstrap, TailwindCSS, ReactJS, NodeJS, ExpressJS, Django, MySQL, MongoDB, JSON Server, Git & GitHub, Canva. 
 - 📫 How to reach me: Instagram = @vishwkant0693, Twitter = @vishwkant0693.
 - 😄 Pronouns: He/His
