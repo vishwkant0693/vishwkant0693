@@ -13,7 +13,7 @@ Mechatronics Student, DITE OKHLA - II
 - 🌱 Technologies: Python, HTML, CSS, JavaScript, Bootstrap, TailwindCSS, ReactJS, NodeJS, ExpressJS, Django, MySQL, MongoDB, JSON Server, Git & GitHub, Canva. 
 - 📫 How to reach me: Instagram = @vishwkant0693, Twitter = @vishwkant0693.
 - 😄 Pronouns: He/His
-- ⚡ Hobbies: Playing Cricket, Video Games.
+- ⚡ Hobbies: Coding, playing Cricket, Video Games.
 <hr>
 
 PROJECTS :
