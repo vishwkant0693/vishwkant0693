@@ -1,5 +1,5 @@
 # Hi I'm Vishwkant! 👋
-![portfolio](https://github.com/vishwkant0693/vishwkant0693/assets/62985421/fa8a882c-1f8d-449f-b0fb-216c85edd8d9)
+![Screenshot 2024-04-23 215754](https://github.com/vishwkant0693/vishwkant0693/assets/62985421/5b7a512a-f6b4-4219-ad89-59cd41362bed)
 
 <hr>
 DUCAT Pitampura, Delhi
